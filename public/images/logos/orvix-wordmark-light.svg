@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 78" role="img" aria-label="ORVIX STONE EGYPT">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500&amp;family=Inter:wght@400;500&amp;display=swap');
+      .orvix-name {
+        font-family: 'Cormorant Garamond', Georgia, 'Times New Roman', serif;
+        font-weight: 400;
+        font-size: 42px;
+        letter-spacing: 0.32em;
+        fill: #F8F6F3;
+      }
+      .orvix-sub {
+        font-family: Inter, 'Helvetica Neue', Arial, sans-serif;
+        font-weight: 500;
+        font-size: 11px;
+        letter-spacing: 0.42em;
+        fill: #B9985A;
+        text-transform: uppercase;
+      }
+    </style>
+  </defs>
+  <text class="orvix-name" x="160" y="38" text-anchor="middle">ORVIX</text>
+  <text class="orvix-sub" x="160" y="62" text-anchor="middle">STONE EGYPT</text>
+</svg>
